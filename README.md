@@ -1,5 +1,7 @@
 # RecyclerView extensions
 
+Deprecated. Migrate to Paging Library https://developer.android.com/topic/libraries/architecture/paging
+
 latest version - [ ![Download](https://api.bintray.com/packages/mentalstack/android/recyclerview-extensions-kotlin/images/download.svg) ](https://bintray.com/mentalstack/android/recyclerview-extensions-kotlin/_latestVersion)
 
 RecyclerView Extensions by Kotlin, Mentalstack
